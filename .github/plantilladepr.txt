@@ -1,0 +1,10 @@
+
+##Checklist
+- [ ] **Lint**: ¿El código sigue las reglas de estilo?
+- [ ] **Test**: ¿Has pasado los tests unitarios/integración?
+- [ ] **Build**: ¿El proyecto compila correctamente sin errores?
+##Riesgos
+- **Riesgo**: 
+- **Impacto**: Bajo / Medio / Alto
+##Rollback
+1. `git revert <tercerarama>`
