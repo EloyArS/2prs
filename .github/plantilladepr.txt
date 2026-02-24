@@ -1,10 +1,14 @@
+## 📋 Descripción
+Escribe aquí qué has hecho.
 
-##Checklist
-- [ ] **Lint**: ¿El código sigue las reglas de estilo?
-- [ ] **Test**: ¿Has pasado los tests unitarios/integración?
-- [ ] **Build**: ¿El proyecto compila correctamente sin errores?
-##Riesgos
-- **Riesgo**: 
-- **Impacto**: Bajo / Medio / Alto
-##Rollback
-1. `git revert <tercerarama>`
+---
+
+## ✅ Checklist
+- [ ] **Lint**: Código revisado.
+- [ ] **Test**: Pruebas pasadas.
+- [ ] **Build**: Compila bien.
+
+---
+
+## ⚠️ Riesgos
+* Riesgo detectado: Ninguno.
