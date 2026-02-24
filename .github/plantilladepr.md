@@ -1,5 +1,14 @@
-﻿## Checklist
+## 📋 Descripción
+Escribe aquí qué has hecho.
 
-- [ ] **Lint**
-- [ ] **Test**
-- [ ] **Build**
+---
+
+## ✅ Checklist
+- [ ] **Lint**: Código revisado.
+- [ ] **Test**: Pruebas pasadas.
+- [ ] **Build**: Compila bien.
+
+---
+
+## ⚠️ Riesgos
+* Riesgo detectado: Ninguno.
